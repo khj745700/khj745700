@@ -2,7 +2,6 @@
 
 <br>
 <br>
-<br>
 
 
 <h2 align="center">🐳 It's Me 🐳</h2>
@@ -13,11 +12,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khj745700&show_icons=true&theme=radical">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khj745700" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=khj745700&show_icons=true&theme=radical" width="300">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khj745700" width="250">
 </p>
 
-<br>
 <br>
 <br>
 
@@ -27,3 +25,6 @@
   <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-f09311?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
+
+<br>
+<br>
