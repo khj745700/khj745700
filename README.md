@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://khj745700.notion.site" target="_blank"><img src="https://img.shields.io/badge/f09311?style=for-the-badge&logo=tistory&logoColor=ffffff"/>블로그</a> 
 <!--
 **khj745700/khj745700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Kim Hyun Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khj745700&show_icons=true&theme=radical)
