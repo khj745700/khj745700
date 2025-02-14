@@ -3,14 +3,6 @@
 <br>
 <br>
 
-
-<h2 align="center">🐳 It's Me 🐳</h2>
-<p align="center">
-  <a href="https://codingmylife.tistory.com" target="_blank"><img src="https://img.shields.io/badge/blog-f09311?style=for-the-badge&logo=tistory&logoColor=white"/></a> 
-  <a href="https://khj745700.notion.site" target="_blank"><img src="https://img.shields.io/badge/Details-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
-</p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khj745700&show_icons=true&theme=radical" width="300">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khj745700" width="250">
