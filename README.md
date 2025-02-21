@@ -59,7 +59,7 @@ velog 트렌드는 이번 주마다 많은 인기글이 받은 순으로 정렬�
 
 <h2><a href="https://github.com/recipetalk">Recipe talk</a></h2>
 2023년 2월부터 8월간 진행된 프로젝트이며, 식료품을 바코드로 촬영하고 이를 소유 식재료로 보관할 수 있으며, 소비기한이 임박할 시 알림 기능과 레시피 조회 시 필요 식재료에 표시하는 기능을 하는 레시피 관련 애플리케이션입니다. <br>
-풀스택으로 참여하였으며, 프론트엔드의 CI/CD도 CodePush로 진행하고 백엔드 운영 서버와 개발 서버를 분기시키는 등 많은 경험을 해보았던 프로젝트입니다. <br>
+풀스택으로 참여하였으며, 프론트엔드의 CI/CD도 CodePush로 진행하고 백엔드 운영 서버와 개발 서버를 분기시키고 오픈테스트를 진행하며 사용자의 요구사항을 반영하는 등 많은 경험을 해보았던 프로젝트입니다. <br>
 
 
 <h2><a href="https://github.com/khj745700/WebPCGV">webPCGV</a>  / <a href="https://github.com/AdvancedWebProgramming/CGV">CGV</a></h2>
