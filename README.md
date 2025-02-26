@@ -12,6 +12,12 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhj745700&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>  
 
+  
+<h3 align="center">지금도 꾸준히 성장하고 있는 개발자 김현진의 깃허브입니다.</h3>
+<p align="center">
+  <img src="https://wakatime.com/badge/user/a21df325-8d62-4d03-8054-4a3616ff6a03.svg">
+</p>
+
 <br>
 <br>
 
