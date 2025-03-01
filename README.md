@@ -15,7 +15,7 @@
   
 <h3 align="center">지금도 꾸준히 성장하고 있는 개발자 김현진의 깃허브입니다.</h3>
 <p align="center">
-  <img src="https://wakatime.com/badge/user/a21df325-8d62-4d03-8054-4a3616ff6a03.svg">
+<a href="https://wakatime.com/@a21df325-8d62-4d03-8054-4a3616ff6a03"><img src="https://wakatime.com/badge/user/a21df325-8d62-4d03-8054-4a3616ff6a03.svg" alt="Total time coded since Feb 25 2025" /></a>
 </p>
 
 <br>
