@@ -56,7 +56,7 @@
 사용자 아이디 : testtest <br>
 계정비밀번호 : @test1 <br>
 
-<h2><a href="https://github.com/khj745700/blog"></a></h2>
+<h2><a href="https://github.com/khj745700/blog">Blog</a></h2>
 2025년 1월부터 개발을 시작해, 블로그를 직접 서버를 띄워 운영해보기 위해 프론트엔드부터 백엔드까지 손수 개발하며 운영하고 있습니다. <br>
 양질의 글을 쓰기 위해 노력하고 있습니다. <br>
 
